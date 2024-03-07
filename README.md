@@ -1,1 +1,1 @@
-Os códigos e os docs estão em na pasta "codigo"
+Os códigos e o doc (result) estão em na pasta "codigo"
